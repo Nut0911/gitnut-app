@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div>
       <main>
-        <div>Chao</div>
+        <div>Adios!!!</div>
       </main>
     </div>
   )
